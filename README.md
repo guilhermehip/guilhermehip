@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![guilhermehip's Stats](https://github-readme-stats.vercel.app/api?username=guilhermehip&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![guilhermehip's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermehip&theme=tokyonight&hide_border=true)
 ![guilhermehip's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehip&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
