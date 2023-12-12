@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on @limermed
-- 🌱 I’m currently learning Java / SpringBoot
+- 🌱 I’m currently learning Data Science and Data Engineering
 - 💬 Ask me about Artificial Intelligence or Backend Services
 - 📫 How to reach me: guilhermevvian@gmail.com
 
