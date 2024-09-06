@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Mid-Level Software Developer on @limermed
 - 📚 Postgraduate in Data Science and Analytics
-- 🌱 I’m currently learning (as a hobbie) Data Engineering and Kotlin
+- 🌱 I’m currently learning (as a hobby) Data Engineering and Kotlin
 - 💬 Ask me about Artificial Intelligence or Backend Services
 - 📫 How to reach me: guilhermevvian@gmail.com
 
